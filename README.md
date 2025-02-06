@@ -2,9 +2,9 @@
 
 ###
 
-<div style="margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kkamranvv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+![kkamranvv's Stats](https://github-readme-stats.vercel.app/api?username=kkamranvv&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+![kkamranvv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kkamranvv&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
