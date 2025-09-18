@@ -29,8 +29,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
 </div>
 
-###
-![kkamranvv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kkamranvv&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 
 
 
