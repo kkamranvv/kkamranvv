@@ -6,7 +6,7 @@ Focused on manual testing and currently learning test automation.
 ---
 
 ## 🧪 QA Skills
-- Manual testing (web applications)  
+- Manual testing (web/desktop applications)  
 - Writing test cases & bug reports  
 - Test documentation  
 - GitLab (issues, merge requests, branches)  
